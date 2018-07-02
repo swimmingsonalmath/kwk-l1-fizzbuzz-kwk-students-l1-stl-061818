@@ -13,11 +13,11 @@
 # if a number is divisible by 3, return "fizz"
 def fizzbuzz(x)
   if x%5 == 0 && x%3 == 0 
-  puts "fizzbuzz"
+  puts "FizzBuzz"
   elsif x%3 == 0 # can also x%3 == 0 && x%5 !=0
-  puts "fizz"
+  puts "Fizz"
   elsif x%5 == 0 
-  puts "buzz"
+  puts "Buzz"
   end
 end
 
