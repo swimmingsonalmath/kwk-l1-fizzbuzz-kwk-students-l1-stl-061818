@@ -22,9 +22,9 @@ def fizzbuzz(x)
 end
 
 
-fizzbuzz(22)
-
-
+fizzbuzz(3)
+fizzbuzz(5)
+fizzbuzz(15)
 
 
 
