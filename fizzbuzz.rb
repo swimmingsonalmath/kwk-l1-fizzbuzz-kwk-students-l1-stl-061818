@@ -22,7 +22,7 @@ def fizzbuzz(x)
 end
 
 
-fizzbuzz(21)
+fizzbuzz(22)
 
 
 
